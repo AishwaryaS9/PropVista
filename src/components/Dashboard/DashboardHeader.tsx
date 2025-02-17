@@ -15,7 +15,6 @@ const DashboardHeader = ({ sidebarOpen, setSidebarOpen }) => {
       if (getData) {
         setProfileDetails(getData.data)
       }
-      console.log('headerData', getData)
     } catch (error) {
 
     }
