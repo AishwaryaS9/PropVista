@@ -53,7 +53,6 @@ const Testimonial = () => {
 
     return (
         <div className="mt-[30px] lg:mt-[55px]  py-10 px-5 lg:px-20 my-4">
-            <h2 className="text-3xl font-bold text-center text-gray-800 mb-10">What Our Customers Say</h2>
             <Swiper 
                 style={{padding:'10px'}}
                 spaceBetween={30}
