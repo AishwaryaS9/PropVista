@@ -29,7 +29,7 @@ const About = () => {
                 About Us
               </h2>
               <p className="text__para mt-[30px]">
-                Welcome to AcquireSpace, where we specialize in comprehensive real estate management services tailored to meet the unique needs of property owners and tenants alike. With years of experience in the industry, we have established ourselves as a trusted partner in the realm of property management, known for our commitment to excellence, transparency, and client satisfaction.
+                Welcome to PropVista, where we specialize in comprehensive real estate management services tailored to meet the unique needs of property owners and tenants alike. With years of experience in the industry, we have established ourselves as a trusted partner in the realm of property management, known for our commitment to excellence, transparency, and client satisfaction.
               </p>
             </div>
           </div>
@@ -45,7 +45,7 @@ const About = () => {
               </h2>
               <ul className="pl-4">
                 <li className="text__para">
-                  At AcquireSpace, our mission is to provide top-notch property management solutions that maximize the value of your real estate investments while ensuring a seamless and enjoyable living or working experience for your tenants. We strive to be the bridge that connects property owners with their tenants, fostering a harmonious relationship built on trust and mutual respect.
+                  At PropVista, our mission is to provide top-notch property management solutions that maximize the value of your real estate investments while ensuring a seamless and enjoyable living or working experience for your tenants. We strive to be the bridge that connects property owners with their tenants, fostering a harmonious relationship built on trust and mutual respect.
                 </li>
               </ul>
             </div>
