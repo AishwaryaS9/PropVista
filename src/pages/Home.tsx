@@ -26,7 +26,7 @@ const Home = () => {
                                     Let's hunt for your dream residence
                                 </h1>
                                 <p className="text__para">
-                                    Exploreour range of beautiful properties with the addition of separate accomodation suitable for you.
+                                    Explore our range of beautiful properties with the addition of separate accomodation suitable for you.
                                 </p>
                                 <button className="btn">
                                     Request an Appointment
