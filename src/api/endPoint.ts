@@ -1,4 +1,5 @@
 const api = {
-    baseApi: "https://propvista-backend.onrender.com/"
+    baseApi: "https://prop-vista-backend.vercel.app/"
 }
+
 export default api;
